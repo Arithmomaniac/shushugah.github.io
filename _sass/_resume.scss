@@ -73,6 +73,15 @@
   }
 }
 
+@-webkit-keyframes shake-icon {
+  0%   { -webkit-transform:  rotate(-2deg); }
+  20%  { -webkit-transform:  rotate(2deg); }
+  40%  { -webkit-transform:  rotate(-2deg); }
+  60%  { -webkit-transform:  rotate(2deg); }
+  80%  { -webkit-transform:  rotate(-2deg); }
+  100% { -webkit-transform:  rotate(0deg); }
+}
+
 .icon-links {
   margin: 0;
   padding: 0;
@@ -96,16 +105,28 @@
 
   .icon-link { display: inline-block;
 
+    &:hover .icon-medium path {
+      &:nth-child(1) { fill: rgb(50, 252, 141); }
+      &:nth-child(2) { fill: rgb(11, 227, 112); }
+      &:nth-child(3) { fill: rgb(20, 199, 103); }
+      &:nth-child(4) { fill: rgb(0, 171, 108); }
+    }
+
+    &:hover .icon.icon-twitter path {
+      fill: #4099FF;
+    }
+
     &:hover .icon path {
+      animation: shake-icon 0.5s;
+      animation-iteration-count: infinite;
       fill: #333;
-      @include transition(all .2s ease);
     }
   }
 }
 
 .contact-button {
   @include border-radius(3px);
-  background-color: #efefef;
+  background-color: #1abc9c;
   text-decoration: none;
   text-align: center;
   display: block;
@@ -113,12 +134,12 @@
   width: 220px;
   font-size: 1.375rem;
   @include sans_light;
-  color: #333;
+  color: $white;
   line-height: 55px;
   @include transition(all .2s ease);
 
   &:hover {
-    background-color: #333;
+    background-color: #16a085;
     color: #fff;
   }
 
