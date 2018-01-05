@@ -4,16 +4,16 @@
 - company: DaWanda GmbH
   position: Backend Software Engineer
   duration:  February 2017 &mdash; Present
-  summary: Migrating large **Rails 2.3** application to modern Rails web applications and API based microservices. Expand server/client side tracking with **GoogleAnalytics** and **Snowplow**. Creating **Solr** fuzzy search queries for marketing campaigns. Revamped company [tech blog](https://medium.com/dawandadev). Active in Ruby and Javascript community. Organized conference and book budget.
+  summary: Migrating large **Rails 2.3** application to modern Rails web applications and API based microservices. Expanding server/client side tracking with **GoogleAnalytics** and **Snowplow**. Creating **Solr** fuzzy search queries for marketing campaigns. Revamped company [tech blog](https://medium.com/dawandadev). Active in Ruby and Javascript community. Organized conference and book budget.
 
 # Bitspire
 - company: Bitspire GmbH
   position: FullStack Developer
   duration: August 2016 &mdash; October 2016
-  summary: Implemented [Alchemy-Devise](https://yolo.com) gem in Rails 4 app. I created mobile responsive frontend from PSD files. I used Foundation 6 Javascript APIs and Sass mixins to create mobile responsive design.  I coached two designers how to use jQuery and ruby for ActiveRecord queries, reflog (recover) lost git commits. I improved team flow by writing custom migration scripts to fix mismatched schemas (without dropping databases) between different developers’ machines and bundler settings.
+  summary: Implemented [Alchemy-Devise](https://yolo.com) gem in Rails 4 app. I created mobile responsive frontend from PSD files. I used Foundation 6 Javascript APIs and Sass mixins to create mobile responsive design.  I coached two designers how to use jQuery and Ruby for ActiveRecord queries, and reflog (recover) lost git commits. I improved team flow by writing custom migration scripts to fix mismatched schemas (without dropping databases) between different developers’ machines and bundler settings.
 
 # TurboVote
 - company: DemocracyWorks
   position: Data Fellow
   duration: September 2014 &mdash; November 2014
-  summary: Data wrangling unprocessed voting location/time zone data for all USA municipalities for [Google Information Civic API](https://developers.google.com/civic-information/). I created scripts that automated address completion, optical character recognition with ruby, python and google sheet formulas.
+  summary: Data wrangling unprocessed voting location/time zone data for all USA municipalities for [Google Information Civic API](https://developers.google.com/civic-information/). I created scripts that automated address completion, optical character recognition with Ruby, Python and Google sheet formulas.
