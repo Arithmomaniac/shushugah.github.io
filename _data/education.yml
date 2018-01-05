@@ -1,6 +1,4 @@
 # Degree
-- degree: Associates Degree, Business Management
-  uni: Springfield College
-  year: 1984 &mdash; 1986
-  awards: Quickest to fall asleep
-  summary: If you had any meaningful roles at college, feel free to write about them here
+- uni: Flatiron School
+  year: April 2014 &mdash; September 2014
+  summary: I was one of thirty applicants to recieve a full ride scholarship for the Flatiron Web Development Bootcamp (New York City). All code submissions were completed with git/github workflow. The final two months we spent working on our own projects. I worked on a New York Subway [text alerts app](http://nycsubwayalerts.herokuapp.com/) and revamped website of [Code2040](http://www.code2040.org/).

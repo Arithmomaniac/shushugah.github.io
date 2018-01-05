@@ -1,19 +1,19 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# DaWanda
+- company: DaWanda GmbH
+  position: Backend Software Engineer
+  duration:  February 2017 &mdash; Present
+  summary: Migrating large **Rails 2.3** application to modern Rails web applications and API based microservices. Expand server/client side tracking with **GoogleAnalytics** and **Snowplow**. Creating **Solr** fuzzy search queries for marketing campaigns. Revamped company [tech blog](https://medium.com/dawandadev). Active in Ruby and Javascript community. Organized conference and book budget.
 
+# Bitspire
+- company: Bitspire GmbH
+  position: FullStack Developer
+  duration: August 2016 &mdash; October 2016
+  summary: Implemented [Alchemy-Devise](https://yolo.com) gem in Rails 4 app. I created mobile responsive frontend from PSD files. I used Foundation 6 Javascript APIs and Sass mixins to create mobile responsive design.  I coached two designers how to use jQuery and ruby for ActiveRecord queries, reflog (recover) lost git commits. I improved team flow by writing custom migration scripts to fix mismatched schemas (without dropping databases) between different developers’ machines and bundler settings.
 
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+# TurboVote
+- company: DemocracyWorks
+  position: Data Fellow
+  duration: September 2014 &mdash; November 2014
+  summary: Data wrangling unprocessed voting location/time zone data for all USA municipalities for [Google Information Civic API](https://developers.google.com/civic-information/). I created scripts that automated address completion, optical character recognition with ruby, python and google sheet formulas.

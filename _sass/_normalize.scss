@@ -138,6 +138,7 @@ dfn {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+  color: #16a085;
 }
 
 /**
@@ -423,4 +424,8 @@ table {
 td,
 th {
   padding: 0;
+}
+
+ul {
+  list-style: none;
 }
