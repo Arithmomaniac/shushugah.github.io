@@ -1,10 +1,10 @@
 # Skills
 # Donut design
 - skill: Ruby
-- skill: Javascript/Coffeescript
-- skill: Sinatra && Ruby on Rails
-- skill: Git Github Gitlab
-- skill: Docker Jenkins Marathon
-- skill: CodeClimate Rubocop
+- skill: Javascript/CoffeeScript
+- skill: Sinatra and Ruby on Rails
+- skill: Git, GitHub/GitLab
+- skill: Docker, Jenkins, Marathon
+- skill: CodeClimate, Rubocop
 - skill: LaTeX
 - skill: Solr, SQL
